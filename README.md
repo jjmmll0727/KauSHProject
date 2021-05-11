@@ -17,3 +17,8 @@ android studio를 기반으로 google cloud platform에서 SPEECH TO TEXT api를
 
 처음으로 기획부터 디자인 개발 까지 진행한 프로젝트였다. 
 android studio는 다른 팀원이 전담하여 진행하였지만, AWS를 처음으로 사용하는 좋은 경험이었다고 생각한다. 추후에 serverless service를 구축할때 AWS service들을 자주 사용하면 좋을 것 같다. 
+
+
+[음성데이터 감정 분석.pdf](https://github.com/jjmmll0727/KauSHProject/files/6455834/default.pdf)
+
+
